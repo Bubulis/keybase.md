@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bubulis on github.
+  * I am elmundo (https://keybase.io/elmundo) on keybase.
+  * I have a public key ASCN5ptU7Gn94-jw0VhK1Wzpq_-yOlZzxx9WlsRVZtaAngo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208de69b54ec69fde3e8f0d1584ad56ce9abffb23a5673c71f5696c45566d6809e0a",
+      "host": "keybase.io",
+      "kid": "01208de69b54ec69fde3e8f0d1584ad56ce9abffb23a5673c71f5696c45566d6809e0a",
+      "uid": "3ddd0e2222e2db90c8ccc6508365a619",
+      "username": "elmundo"
+    },
+    "merkle_root": {
+      "ctime": 1568172599,
+      "hash": "845e86102dee92c0bfbef2963b0ddcfb84034f893828d9648203dd383c9524c12de42f1cbb6ec6f0273d6674372f0ae9d2b77ade733ff867dab4512a8b40f864",
+      "hash_meta": "32669c00e082da5d7e57631b4e4855c1d367c33e7aa19b03de4049def6602398",
+      "seqno": 6577968
+    },
+    "service": {
+      "entropy": "Z2evxvc1BBZqNa/95r4tYfKO",
+      "name": "github",
+      "username": "bubulis"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568172830,
+  "expire_in": 504576000,
+  "prev": "3489509f4479561867d23f7e183fc9a7fb5a51ad0a5294d1fba670a686f5886a",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASCN5ptU7Gn94-jw0VhK1Wzpq_-yOlZzxx9WlsRVZtaAngo](https://keybase.io/elmundo), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjeabVOxp/ePo8NFYStVs6av/sjpWc8cfVpbEVWbWgJ4Kp3BheWxvYWTESpcCBcQgNIlQn0R5Vhhn0j9+GD/Jp/taUa0KUpTR+6Zwpob1iGrEIKP8qRIXgjDsZLFRLG9Amxqwy8rXVnNMvdLIJMjeVY6lAgHCo3NpZ8RAP0uOBAGxI3ZNmZWDcFKjLa+o3QdtEMXOOD+4mr+ovZqwZyAnMmLZxUiNKUFBUtiUNcEFKRcUb8INo1HGx149AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIQkGQJTkuzuf9Mgm6HKwY4bmB+tePydcKq+8qOr6Kojo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/elmundo
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id elmundo
+```
